@@ -18,3 +18,4 @@ GA to maximize the fitness function : (2xz exp(-x) - 2y^3 + y^2 - 3z^3)
 	* Python 3.9.12
 	* pip 21.2.4
 	* pandas 1.4.2
+	* matplotlib 3.5.1
