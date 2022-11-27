@@ -1,5 +1,7 @@
 # GA-Task
 GA to maximize the fitness function : (2xz exp(-x) - 2y^3 + y^2 - 3z^3)
+# Programming Task
+This task is for finding the ultimate parent child pairs.
 ## Instructions:
 
 1. ProgramminTask.ipynb file is a jupyter notebook file and can be directly open in google colab also.
